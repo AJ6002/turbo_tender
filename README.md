@@ -121,15 +121,3 @@ Please open an issue before making major changes.
 
 ### 📄 License
 
-MIT
-
----
-
-If you want:
-
-* a shorter README,
-* install script,
-* API docs,
-* screenshots badges,
-
-just say the word 👇
