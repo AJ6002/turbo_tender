@@ -97,7 +97,18 @@ tender-management/
 ```
 
 ---
+⚙️ What It Actually Does
 
+Publish. Bid. Evaluate. Award. Audit.
+One clean flow:
+
+1️⃣ Admins publish tender details
+2️⃣ Vendors submit bids with files & metadata
+3️⃣ Reviewers compare & score intelligently
+4️⃣ A winner gets crowned (with receipts)
+5️⃣ Auditors can trace every click later
+
+All automatic reminders, permissions, and data validation baked in.
 ### 📌 Roadmap
 
 * Vendor scoring matrix
