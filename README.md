@@ -1,9 +1,4 @@
 # turbo_tender
-Got you.
-Here’s a **clean, improved README** for a **Tender Management System (built with TemperPy / Python)**.
-Tweak anything you like.
-
----
 
 ## 📦 Tender Management System – README (Revised)
 
